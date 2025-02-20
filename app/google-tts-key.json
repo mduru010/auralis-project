@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "auralis-project",
+  "private_key_id": "3319fc3b6bb6a4d47f603f854a3121569522116a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDgMiKBaxfYftO2\nUj8Y2799rmuUwZGnQ8fRMobqeyv+w+xEE+XQ4EoCgVGq1pJBanIaIyECdAtwraXg\nMlvGv9fP56Oxw26OjbZ/hE+upvbjFMcrDru29kvLKPeI6tPEZGX/lshdk3a0NfUt\nxCTheDu//u/0RYACVooFCjUprIdS8Kw8GCxGR2owqOJ20KtgO3dyicwviMh5PPjL\nDas/DnJL3m/Z+0YL+aa5xKzMJtWjaVMkX0h9QvmFRnP5PZ2B0Cn/FhQfSdx9Br/9\n7LJ9nLChMV0rjWgTzwMzPDaGjcoogBFEd3shqeT0OlvqDkiSPruYjyrPYmut7wRg\nNbbv4NBxAgMBAAECggEAEfPxz2tD/ZIqYe80Hkl6jBXrh334q+xBk/73zs8ONth5\nkvoE7TUIuCqi34tPKu3bNTya6Bdi0yMUpV9i+gdiwMNL2HBN6hxvAMcXmmTEYGrJ\niCkl3wDaEOq257/mNVPU1yK76MJmPwgTGhca3PND1ZwUmvr1xToo0z5+A1hNfdah\nlEErxu8gvJXdsoCDI9nRa4ls6hw+daepHdxCH2TpPoaExcAwZglBJw88UrpMUSTW\nco75XBf0MsS5ga4UE7bjQCmRWA6UVOqCfw1udy/UZXqnMFN5bwuHyBR/fDzwwWy/\nTDNE/LytOFvLXy5vRpSPlPP5EDNKsVPdmlcMf70iAQKBgQDz1PWuKVjNGYFwjhPA\nut2AdPgXfCsYGY6KUlyIsqTqjE5n94dXmMXVvr1d4/H6vTnf/LszCpwu8XWm+b6B\n1+4t2o57lZ8U4go1684BWoop2t1j238shuYHbkaOH8k8QKdrWP9QnUilx8ZwYSAk\nlLpUEk2x/+YgC7vVlhXrayiWhwKBgQDrYlFSAqTfpBms0WkhETkGVsvUhzY/HELI\nvRzX1W9aT/bk8dISDHzU3iGuB+IrgwHPrA81sD744jWqWBok8ScbzH1gQ21MHio5\n/px4t3K97i3kfAXzn2ZPGv6nlcV7QPGWp3EVcZEmu59yBhxDvuQakpH1fCaw3yX3\ndmKVVWunRwKBgFOXuvKOckc+a0XvL45vgei8MSG8C/ojKN77BYZH2Iogt/Ckx92c\nHpb84WcC8r6HiQPlXThOduURGsi37jwNjzZhK1/rF7LNG7sIsIN+Sse2pRfK9HqL\ndOkvQTkQZKkncT44MK+ufG15Y+q7IY3o/0g7Ti+sD3UFEMxUvAcNociZAoGACk7V\n7Nd8zOZs0WqiRfZxHtvyNS5uq7jbG9tcRf9szvGtiD0my++MD+5iXzKtLuafz65j\nRCChwVh2rS0KiA+ffNIps2uAf9LaWovR4l92QOcLT3Q29oJGgrRV7pTafxlK+yP+\nCchdaOrSgrXNyxGy/47noW58a0Z6bSncC1ogSsUCgYAnS38h9MUtXGTipH7FeRai\nn2ds3MM2Sq7tG1/+hTLH+41+B7OySLXZhrDDfM56SsEnUxqbU+vjhs+G/CBQKc4o\ngQMVWKjWPTkxSExTdFtUcofrdFEsdMESlpzWNBaa/h6gTv/WW/7yyef7pG2l43dT\nHhw/rGQgN1NPHjJz187TQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "michael-s-new-service-account@auralis-project.iam.gserviceaccount.com",
+  "client_id": "111635727914537084877",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/michael-s-new-service-account%40auralis-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

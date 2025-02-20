@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        gold: "#C8A15F", // Auralis gold accent
+        dark: "#121212", // Deep dark background
       },
     },
   },
