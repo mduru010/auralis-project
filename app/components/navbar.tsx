@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import { auth, signIn, logOut } from "../lib/firebase";
+import Image from "next/image";
 import { onAuthStateChanged, User } from "firebase/auth";
 
 const Navbar = () => {
@@ -49,7 +50,7 @@ const Navbar = () => {
         {user ? (
           <div className="relative">
             <button onClick={() => setIsMenuOpen(!isMenuOpen)}>
-              <img
+              <Image
                 src={user.photoURL || "/default-avatar.png"}
                 alt="Profile"
                 className="w-10 h-10 rounded-full border border-gold"

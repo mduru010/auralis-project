@@ -1,6 +1,7 @@
+/* eslint no-use-before-define: 0 */  // --> OFF
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import Link from "next/link";
 import "./globals.css";
 import Navbar from "./components/navbar"; // Adjust path if needed
 
